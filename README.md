@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 13.03.2026
 
 ## AIM:
 
@@ -52,7 +52,15 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 
+## Input:
+
+<img width="1019" height="515" alt="Screenshot 2026-03-13 105129" src="https://github.com/user-attachments/assets/46b21359-ca10-42d0-8b27-0ee134daa87c" />
+
+
 ## Output:
+
+<img width="1162" height="978" alt="Screenshot 2026-03-13 105000" src="https://github.com/user-attachments/assets/3bdd61c3-489a-4579-a091-c8de25d2470f" />
+
 
 
 ### Name:
