@@ -54,17 +54,19 @@
 
 ## Input:
 
-<img width="1019" height="515" alt="Screenshot 2026-03-13 105129" src="https://github.com/user-attachments/assets/46b21359-ca10-42d0-8b27-0ee134daa87c" />
+<img width="1008" height="521" alt="Screenshot 2026-03-13 105502" src="https://github.com/user-attachments/assets/256c6583-7162-4de1-a22d-0c3bf6510e1f" />
+
 
 
 ## Output:
 
-<img width="1162" height="978" alt="Screenshot 2026-03-13 105000" src="https://github.com/user-attachments/assets/3bdd61c3-489a-4579-a091-c8de25d2470f" />
+<img width="1148" height="967" alt="Screenshot 2026-03-13 105454" src="https://github.com/user-attachments/assets/e3c085fa-a6aa-432d-974c-4d95fca5fbd5" />
 
 
 
-### Name:
-### Register Number: 
+
+### Name: MOHAMMED HANEEF M
+### Register Number: 212225040249
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
